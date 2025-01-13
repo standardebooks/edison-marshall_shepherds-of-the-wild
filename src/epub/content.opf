@@ -70,8 +70,8 @@
 		<meta property="file-as" refines="#transcriber-3">Online Distributed Proofreading Team, The</meta>
 		<meta property="se:url.homepage" refines="#transcriber-3">https://pgdp.net</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">D Baark</dc:contributor>
-		<meta property="file-as" refines="#producer-1">Baark, D</meta>
+		<dc:contributor id="producer-1">D. Baark</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Baark, D.</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
