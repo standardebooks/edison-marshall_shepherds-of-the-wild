@@ -50,7 +50,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/67764</dc:source>
 		<dc:source>https://archive.org/details/shepherdsofwild00marsrich</dc:source>
-		<meta property="se:word-count">70492</meta>
+		<meta property="se:word-count">69550</meta>
 		<meta property="se:reading-ease.flesch">80.01</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/edison-marshall_shepherds-of-the-wild</meta>
 		<dc:creator id="author">Edison Marshall</dc:creator>
